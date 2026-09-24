@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eab308"/>
+      <stop offset="1" stop-color="#854d0e"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#g)"/>
+  <circle cx="320" cy="150" r="95" fill="rgba(255,255,255,0.12)"/>
+  <text x="320" y="160" font-size="96" text-anchor="middle" dominant-baseline="middle" font-family="system-ui,'Segoe UI Emoji','Noto Color Emoji',sans-serif">🎮</text>
+  <text x="320" y="318" font-size="24" text-anchor="middle" fill="rgba(255,255,255,0.82)" font-family="system-ui,sans-serif" letter-spacing="8">HOTNEWS.PUB</text>
+</svg>
