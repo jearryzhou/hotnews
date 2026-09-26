@@ -3,5 +3,6 @@ Allow: /
 
 # 列表页滚动加载用数据端点，无需抓取
 Disallow: /*/feed.json
+Disallow: /*/daily/data/
 
 Sitemap: https://hotnews.pub/sitemap-index.xml
